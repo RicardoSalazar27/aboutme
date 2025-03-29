@@ -1,4 +1,4 @@
-import CoverParticles from "@/componets/cover-particles";
+import CoverParticles from "@/components/cover-particles";
 import Image from "next/image";
 
 export default function Home() {
