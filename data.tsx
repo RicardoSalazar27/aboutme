@@ -154,33 +154,33 @@ export const dataCounter = [
     },
 ];
 
-export const serviceData = [
+  export const serviceData = [
     {
-        icon: <Crop />,
-        title: "Branding",
-        description: "Desarrollo de una identidad de marca sólida y coherente, incluyendo diseño de logotipo, colores y elementos visuales",
+      icon: <Computer />,
+      title: "Desarrollo web",
+      description: "Creación de sistemas web como POS, PMS o reservas, con tecnologías modernas como PHP, MySQL y JavaScript.",
     },
     {
-        icon: <Pencil />,
-        title: "Diseño web",
-        description: "Diseño creativo y profesional de interfaces web intuitivas y atractivas, centradas en la experiencia del usuario",
+      icon: <Pencil />,
+      title: "Interfaces web",
+      description: "Diseño de interfaces funcionales y responsivas con HTML, CSS (SASS), JavaScript y Bootstrap.",
     },
     {
-        icon: <Computer />,
-        title: "Desarrollo web",
-        description: "Diseño y desarrollo de sitios web a medida, adaptados a tus necesidades",
+      icon: <Crop />,
+      title: "Sistemas a medida",
+      description: "Soluciones personalizadas para gestión administrativa, automatización y control interno.",
     },
     {
-        icon: <Book />,
-        title: "Copywriting",
-        description: "Creación de contenido persuasivo y atractivo que capta la atención de tu audiencia",
+      icon: <Rocket />,
+      title: "Redes e infraestructura",
+      description: "Instalación de redes, access points, cámaras IP y soporte técnico en sistemas informáticos.",
     },
     {
-        icon: <Rocket />,
-        title: "SEO",
-        description: "Optimización de tu presencia en línea mediante estrategias de SEO avanzadas, ",
+      icon: <Book />,
+      title: "Mantenimiento técnico",
+      description: "Limpieza, formateo e instalación de software para equipos de cómputo.",
     },
-];
+  ];
 
 export const dataPortfolio = [
     {

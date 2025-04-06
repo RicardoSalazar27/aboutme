@@ -10,7 +10,7 @@ const Introduction = () => {
                 <Image src="/home-4.png" priority width="800" height="800" alt="Profile pic"></Image>
 
                 <div className="flex flex-col jusitfy-center max-w-md">
-                    <h1 className="mb-5 text-2xl leading-right text-center md:text-left md:text-4xl md:mb-10">Si puedes pensarlo, <br></br>
+                    <h1 className="mb-5 text-2xl leading-right text-center md:text-left md:text-4xl md:mb-10">Si puedes imaginarlo, <br></br>
                         <TypeAnimation
                             sequence = {[
                                 "puedes programarlo",
