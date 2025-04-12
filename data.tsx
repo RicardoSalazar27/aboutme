@@ -216,7 +216,7 @@ export const dataPortfolio = [
         title: "Tito's Pizza",
         image: "/image-5.jpg",
         urlGithub: "https://github.com/RicardoSalazar27/Titos-Pizza",
-        urlDemo: "titospizza.netlify.app",
+        urlDemo: "https://titospizza.netlify.app",
     },
     {
         id: 6,
@@ -230,14 +230,14 @@ export const dataPortfolio = [
         title: "Festival Musical",
         image: "/image-7.jpg",
         urlGithub: "https://github.com/RicardoSalazar27/FestivalMusical",
-        urlDemo: "festival-musicalrock.netlify.app",
+        urlDemo: "https://festival-musicalrock.netlify.app",
     },
     {
         id: 8,
         title: "BlogCafe",
         image: "/image-8.jpg",
         urlGithub: "https://github.com/RicardoSalazar27/Blog-Cafe",
-        urlDemo: "blogg-decafe.netlify.app",
+        urlDemo: "https://blogg-decafe.netlify.app",
     }
 ];
 
