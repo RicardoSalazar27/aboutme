@@ -1,34 +1,33 @@
 
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
+import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin,Facebook,Instagram, Phone, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
 
 export const socialNetworks = [
     {
         id: 1,
         logo: <Youtube size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "#!", // Aquí agregarás el enlace de YouTube más tarde
     },
     {
         id: 2,
         logo: <Linkedin size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.linkedin.com/in/edgar-ricardo-salazar-sesenes-676225284",
     },
     {
         id: 3,
-        logo: <Twitter size={30} strokeWidth={1} />,
-        src: "#!",
+        logo: <Facebook size={30} strokeWidth={1} />,
+        src: "https://www.facebook.com/share/18ZFh6f2Hx/",
     },
     {
         id: 4,
-        logo: <Rss size={30} strokeWidth={1} />,
-        src: "#!",
+        logo: <Instagram size={30} strokeWidth={1} />,
+        src: "https://www.instagram.com/ricardo_sesenes07",
     },
     {
         id: 5,
-        logo: <Twitch size={30} strokeWidth={1} />,
-        src: "#!",
+        logo: <Phone size={30} strokeWidth={1} />,
+        src: "https://wa.link/dloqdz",
     },
 ];
-
 
 export const itemsNavbar = [
     {
